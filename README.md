@@ -17,3 +17,17 @@ multi-device self-hosted configuration setup with llm-based assistant
 - [ ] add autodocs
 - [ ] add clicker
 - [ ] add alfred
+- [ ] add notes
+- [ ] add events
+- [ ] add calendar
+- [ ] add mail
+- [ ] add news
+- [ ] add documents
+- [ ] add tools (search/query/photo)
+- [ ] add policy adn protocols
+- [ ] add code evaluation
+- [ ] add shell
+- [ ] add project structure
+- [ ] add task api
+- [ ] add autoscript / gists
+- [ ] add fox
